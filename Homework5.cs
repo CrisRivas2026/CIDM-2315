@@ -3,7 +3,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 
-namespace Homework7;
+namespace Homework5;
 
 class Program
 {
