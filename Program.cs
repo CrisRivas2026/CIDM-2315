@@ -23,9 +23,9 @@ class Program
         Console.WriteLine("-->Please input password: ");
         string password = Console.ReadLine();
 
-        if (username == "cristian")
+        if (username == "alice")
         {
-            if (password == "cristian123")
+            if (password == "alice123")
             {
                 Console.WriteLine("-->Login Successfully");
             }
